@@ -103,6 +103,4 @@ Penilaian tiap soal mempertimbangkan: ketepatan kode, keberhasilan output, ketep
 ## Berkas yang Dikumpulkan
 - `NIM_Nama_Ujian_DigitalImage.ipynb`
 - gambar input yang digunakan
-- opsional: PDF hasil notebook jika diminta dosen
 
-> **Catatan:** Notebook jawaban dosen disediakan terpisah. Jangan membagikan notebook jawaban sebelum ujian selesai.
